@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Heng WU"
   avatar           : "syswu.png"
-  bio              : "Associate Professor<br> <a href="http://tcse.cn/">Technology Center of Software Engineering</a><br> <a href="http://www.iscas.ac.cn/">Institute of Software</a><br> <a href="https://www.cas.cn/">Chinese Academy of Sciences</a>"
+  bio              : "Associate Professor<br> <a href=\"http://tcse.cn/\">Technology Center of Software Engineering</a><br> <a href=\"http://www.iscas.ac.cn/\">Institute of Software</a><br> <a href=\"https://www.cas.cn/\">Chinese Academy of Sciences</a>"
   location         : "China"
   employer         : ""
   googlescholar    : "https://scholar.google.com/citations?user=m8AlSdMAAAAJ&hl=zh-CN"
