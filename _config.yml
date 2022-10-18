@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Heng WU"
   avatar           : "syswu.png"
-  bio              : "Associate Professor<br> <a href=\"http://tcse.cn/\">Technology Center of Software Engineering</a><br> <a href=\"http://www.iscas.ac.cn/\">Institute of Software</a><br> <a href=\"https://www.cas.cn/\">Chinese Academy of Sciences</a>"
+  bio              : " <a href=\"https://people.ucas.ac.cn/~wuheng\">Associate Professor</a><br> <a href=\"http://tcse.cn/\">Technology Center of Software Engineering</a><br> <a href=\"http://www.iscas.ac.cn/\">Institute of Software, Chinese Academy of Sciences</a>"
   location         : "China"
   employer         : ""
   googlescholar    : "https://scholar.google.com/citations?user=m8AlSdMAAAAJ&hl=zh-CN"
   email            : "wuheng@iscas.ac.cn"
   researchgate     : "https://www.researchgate.net/profile/Heng-Wu-14"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/%E6%81%92-%E5%90%B4-529a2a120/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-7903-5879"
   pinterest        :
   soundcloud       :
