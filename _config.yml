@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Heng WU"
   avatar           : "syswu.png"
-  bio              : "Associate Professor, Institute of Software, Chinese Academy of Sciences"
+  bio              : "Associate Professor<br> [Technology Center of Software Engineering](http://tcse.cn/)<br> [Institute of Software](http://www.iscas.ac.cn/)<br> [Chinese Academy of Sciences](https://www.cas.cn/)"
   location         : "China"
-  employer         :
+  employer         : ""
   googlescholar    : "https://scholar.google.com/citations?user=m8AlSdMAAAAJ&hl=zh-CN"
   email            : "wuheng@iscas.ac.cn"
   researchgate     : "https://www.researchgate.net/profile/Heng-Wu-14"
@@ -108,7 +108,6 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
