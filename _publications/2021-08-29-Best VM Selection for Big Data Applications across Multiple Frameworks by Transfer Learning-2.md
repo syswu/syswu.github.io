@@ -2,7 +2,7 @@
 title: "Best VM Selection for Big Data Applications across Multiple Frameworks by Transfer Learning"
 collection: publications
 permalink: /publication/2021-08-29-Best VM Selection for Big Data Applications across Multiple Frameworks by Transfer Learning-2
-excerpt: 'resource recommendation.'
+excerpt: 'resource recommendation for big data jobs.'
 date: 2019-05-24
 venue: 'ICPP (CCF B)'
 paperurl: 'https://github.com/syswu/syswu.github.io/blob/master/files/vesta_icpp21.pdf'

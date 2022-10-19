@@ -2,7 +2,7 @@
 title: "Aladdin: Optimized Maximum Flow Management for Shared Production Clusters"
 collection: publications
 permalink: /publication/2019-05-24-Aladdin, Optimized Maximum Flow Management for Shared Production Clusters-1
-excerpt: 'resource scheduling.'
+excerpt: 'resource scheduling for long-running jobs.'
 date: 2019-05-24
 venue: 'IPDPS (CCF B)'
 paperurl: 'https://github.com/syswu/syswu.github.io/blob/master/files/aladdin_ipdps19.pdf'
