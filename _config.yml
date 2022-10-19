@@ -84,7 +84,6 @@ author:
   avatar           : "syswu.png"
   bio              : " <a href=\"https://people.ucas.ac.cn/~wuheng\">Associate Professor</a><br> <a href=\"http://tcse.cn/\">Technology Center of Software Engineering</a><br> <a href=\"http://www.iscas.ac.cn/\">Institute of Software, Chinese Academy of Sciences</a>"
   location         : "China"
-  employer         : ""
   googlescholar    : "https://scholar.google.com/citations?user=m8AlSdMAAAAJ&hl=zh-CN"
   email            : "wuheng@iscas.ac.cn"
   researchgate     : "https://www.researchgate.net/profile/Heng-Wu-14"
@@ -95,11 +94,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "syswu"
+  github           : "https://github.com/syswu"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/%E6%81%92-%E5%90%B4-529a2a120/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-7903-5879"
