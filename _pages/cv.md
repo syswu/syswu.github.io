@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in School of Computer and Communications Engineering, Changsha University of Science and Technology, 2001-2005
+* M.S. in School of Computer, National University of Defense Technology, 2005-2008
+* Ph.D in Institute of Software, Chinese Academy of Sciences, 2009-2014 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2014: Associate Professor
+  * Institute of Software
+  * Chinese Academy of Sciences
+  * Supervisor: Hua Zhong
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2016: Assistant  Professor
+  * Institute of Software
+  * Chinese Academy of Sciences
+  * Supervisor: Hua Zhong
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* operating systems
+* distributed systems
+* high performance computing
+* cloud computing
+* edge computing
 
 Publications
 ======
@@ -56,4 +55,14 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* reviwers
+  * conferences 
+    * QRS 2023
+    * JCC 2023, 2022，2021
+    * ICWS 2022, 2021
+  * journals
+    * Frontiers of Computer Science 
+    * Journal of Software
+    * Chinese Journal of Computers
+* PC members
+  * JCC 2023
