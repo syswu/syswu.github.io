@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Heng WU"
   avatar           : "syswu.png"
-  bio              : " <a href=\"https://people.ucas.ac.cn/~wuheng\">Associate Professor</a><br> <a href=\"http://tcse.cn/\">Technology Center of Software Engineering</a><br> <a href=\"http://www.iscas.ac.cn/\">Institute of Software, Chinese Academy of Sciences</a>"
-  location         : "China"
+  bio              : " CCF/ACM/IEEE member<br><a href=\"https://people.ucas.ac.cn/~wuheng\">Associate Professor</a><br> <a href=\"http://tcse.cn/\">Technology Center of Software Engineering</a><br> <a href=\"http://www.iscas.ac.cn/\">Institute of Software, Chinese Academy of Sciences</a>"
+  location         : "Beijing, China"
   googlescholar    : "https://scholar.google.com/citations?user=m8AlSdMAAAAJ&hl=zh-CN"
   email            : "wuheng@iscas.ac.cn"
   researchgate     : "https://www.researchgate.net/profile/Heng-Wu-14"
