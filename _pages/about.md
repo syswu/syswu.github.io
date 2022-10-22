@@ -27,10 +27,32 @@ News
 
 Students
 ======
-- Yangyang WU ([GXU](https://english.gxu.edu.cn/)), 2022-
-- Wang Liu ([Najing, UCAS](https://njc.ucas.ac.cn/Introduction_of_UCASNJ.htm)), 2022-
-- Xin Meng ([GXU](https://english.gxu.edu.cn/)), 2021-
-- Hao Guo ([UCAS](https://english.ucas.ac.cn/)), 2021-
-- Ziyu Luo [GXU](https://english.gxu.edu.cn/)2020-
-- Rongzhou Luo ([UCAS](https://english.ucas.ac.cn/)), 2020-
-- Chen Yang ([UCAS](https://english.ucas.ac.cn/)), 2019-2022 (Baidu)
+- Present (MSc + PhD):
+  - PhD 
+    - ZiChao YANG  ([UCAS](https://english.ucas.ac.cn/), with Prof. Hua ZHONG,), 2021-  
+    - Diaohan LUO  ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZHANG), 2021-
+    - Jianfeng SHI ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZHANG), 2020-
+    - Heran GAO ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZHANG), 2019-
+  - MSc
+    - Yangyang WU ([GXU](https://english.gxu.edu.cn/)), 2022-
+    - Wang LIU ([Najing, UCAS](https://njc.ucas.ac.cn/Introduction_of_UCASNJ.htm)), 2022-
+    - Xin MENG ([GXU](https://english.gxu.edu.cn/)), 2021-
+    - Hao GUO ([UCAS](https://english.ucas.ac.cn/)), 2021-
+    - Jianxing ZHU ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZHANG), 2021-  
+    - Ziyu LUO ([GXU](https://english.gxu.edu.cn/)),2020-
+    - Rongzhou LUO ([UCAS](https://english.ucas.ac.cn/)), 2020-
+ 
+- Past:
+  - PhD
+    - Yuanjia XU ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZHANG), 2017-2023 
+    - Yuewen WU ([UCAS](https://english.ucas.ac.cn/), with Prof. Hua ZHONG), 2015-2021 
+  - MSc 
+    - Chen YANG ([UCAS](https://english.ucas.ac.cn/)), 2019-2022 (Baidu, shanghai)
+    - Chengzhi LI ([GXU](https://english.gxu.edu.cn/), with Prof. Wenbo ZhANG), 2019-2022 (DiDi, beijing)
+    - Bowen YAN  ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZhANG), 2018-2021 (Tencent, chengdu)
+    - He LIU  ([UCAS](https://english.ucas.ac.cn/), with Dr. Gang XU), 2018-2021 (Toutiao, beijing)
+    - Ting TANG  ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZhANG), 2018-2021 (MeiTuan, beijing)
+    - YinGang SU ([UCAS](https://english.ucas.ac.cn/), with Dr. Gang XU), 2017-2020 (MeiTuan, beijing)
+    - Yue ZHANG ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZhANG), 2017-2020 (Alibaba, beijing)
+    - Zhonghao SHI ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZhANG), 2017-2020 (NetEASE, hangzhou)
+
