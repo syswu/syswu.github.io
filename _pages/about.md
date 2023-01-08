@@ -22,6 +22,7 @@ Address
 
 News
 ======
+- 1 paper accepted by [IEEE transactions on computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=12). Congratulations to Zichao YANG.
 - 1 paper accepted by [ACM SoCC 2022](http://acmsocc.org/2022/). Congratulations to Yuewen WU.
 
 
