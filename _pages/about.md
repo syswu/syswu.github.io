@@ -49,12 +49,12 @@ Students
     - Yuanjia XU ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZHANG), 2017-2023 
     - Yuewen WU ([UCAS](https://english.ucas.ac.cn/), with Prof. Hua ZHONG), 2015-2021 
   - MSc 
-    - Chen YANG ([UCAS](https://english.ucas.ac.cn/)), 2019-2022 (Baidu, shanghai)
-    - Chengzhi LI ([GXU](https://english.gxu.edu.cn/), with Prof. Wenbo ZhANG), 2019-2022 (DiDi, beijing)
-    - Bowen YAN  ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZhANG), 2018-2021 (Tencent, chengdu)
-    - He LIU  ([UCAS](https://english.ucas.ac.cn/), with Dr. Gang XU), 2018-2021 (Toutiao, beijing)
-    - Ting TANG  ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZhANG), 2018-2021 (MeiTuan, beijing)
-    - YinGang SU ([UCAS](https://english.ucas.ac.cn/), with Dr. Gang XU), 2017-2020 (MeiTuan, beijing)
-    - Yue ZHANG ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZhANG), 2017-2020 (Alibaba, beijing)
-    - Zhonghao SHI ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZhANG), 2017-2020 (NetEASE, hangzhou)
+    - Chen YANG ([UCAS](https://english.ucas.ac.cn/)), 2019-2022 ([百度Baidu](https://ir.baidu.com/), shanghai)
+    - Chengzhi LI ([GXU](https://english.gxu.edu.cn/), with Prof. Wenbo ZhANG), 2019-2022 ([滴滴DiDi](https://www.didiglobal.com/), beijing)
+    - Bowen YAN  ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZhANG), 2018-2021 ([腾讯Tencent](https://www.tencent.com/en-us), chengdu)
+    - He LIU  ([UCAS](https://english.ucas.ac.cn/), with Dr. Gang XU), 2018-2021 ([头条Toutiao](https://www.toutiao.com/), beijing)
+    - Ting TANG  ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZhANG), 2018-2021 ([美团MeiTuan](https://bj.meituan.com/), beijing)
+    - YinGang SU ([UCAS](https://english.ucas.ac.cn/), with Dr. Gang XU), 2017-2020 ([美团MeiTuan](https://bj.meituan.com/), beijing)
+    - Yue ZHANG ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZhANG), 2017-2020 ([阿里云Alibaba](https://www.alibabacloud.com/), beijing)
+    - Zhonghao SHI ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZhANG), 2017-2020 ([网易NetEASE](https://www.163.com/), hangzhou)
 
