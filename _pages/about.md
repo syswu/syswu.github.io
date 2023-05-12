@@ -22,7 +22,7 @@ Address
 
 News
 ======
-- 1 paper accepted by [ICWS](https://conferences.computer.org/icws/2023/)([CCF B](https://www.ccf.org.cn/Academic_Evaluation/By_category/)). Congratulations to Hao ZENG.
+- 1 paper accepted by [ICWS 2023](https://conferences.computer.org/icws/2023/)([CCF B](https://www.ccf.org.cn/Academic_Evaluation/By_category/)). Congratulations to Hao ZENG.
 - 1 paper accepted by [IEEE transactions on computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=12)([CCF A](https://www.ccf.org.cn/Academic_Evaluation/By_category/)). Congratulations to Zichao YANG.
 - 1 paper accepted by [DASFAA 2023](http://cic.tju.edu.cn/info/1041/3905.htm)([CCF B](https://www.ccf.org.cn/Academic_Evaluation/By_category/)). Congratulations to Jianfeng SHI.
 - 1 paper accepted by [ACM SoCC 2022](http://acmsocc.org/2022/)([CCF B](https://www.ccf.org.cn/Academic_Evaluation/By_category/)). Congratulations to Yuewen WU.
