@@ -39,19 +39,21 @@ Students
     - Jianfeng SHI ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZHANG), 2020-
     - Heran GAO ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZHANG), 2019-
   - MSc
+    - Honglu WANG([Najing, UCAS](https://njc.ucas.ac.cn/Introduction_of_UCASNJ.htm)), 2023-
+    - Zewen XU([Najing, UCAS](https://njc.ucas.ac.cn/Introduction_of_UCASNJ.htm)), 2023-
     - Yangyang WU ([GXU](https://english.gxu.edu.cn/)), 2022-
     - Wang LIU ([Najing, UCAS](https://njc.ucas.ac.cn/Introduction_of_UCASNJ.htm)), 2022-
-    - Xin MENG ([GXU](https://english.gxu.edu.cn/)), 2021-
     - Hao GUO ([UCAS](https://english.ucas.ac.cn/)), 2021-
     - Jianxing ZHU ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZHANG), 2021-  
-    - Ziyu LUO ([GXU](https://english.gxu.edu.cn/)),2020-
-    - Rongzhou LUO ([UCAS](https://english.ucas.ac.cn/)), 2020-
+    
  
 - Past:
   - PhD
     - Yuanjia XU ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZHANG), 2017-2023 
     - Yuewen WU ([UCAS](https://english.ucas.ac.cn/), with Prof. Hua ZHONG), 2015-2021 
   - MSc 
+    - Tian YU ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZhANG), 2020-2023, [[北京大学长沙计算与数字经济学院](https://icode.pku.edu.cn/), changsha]
+    - Rongzhou LUO ([UCAS](https://english.ucas.ac.cn/)), 2020-2023, [[东方财富](https://www.eastmoney.com/), shanghai]
     - Chen YANG ([UCAS](https://english.ucas.ac.cn/)), 2019-2022 ([百度Baidu](https://ir.baidu.com/), shanghai)
     - Chengzhi LI ([GXU](https://english.gxu.edu.cn/), with Prof. Wenbo ZhANG), 2019-2022 ([滴滴DiDi](https://www.didiglobal.com/), beijing)
     - Bowen YAN  ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZhANG), 2018-2021 ([腾讯Tencent](https://www.tencent.com/en-us), chengdu)
