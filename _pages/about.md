@@ -22,6 +22,8 @@ Address
 
 News
 ======
+- 1 paper accepted by [RTSS 2023](https://2023.rtss.org/)([CCF A](https://www.ccf.org.cn/Academic_Evaluation/By_category/)). Congratulations to JIanfeng SHI.
+- 1 paper accepted by [ICPP 2023](https://icpp23.sci.utah.edu/)([CCF B](https://www.ccf.org.cn/Academic_Evaluation/By_category/)). Congratulations to Diaohan LUO.
 - 1 paper accepted by [ICWS 2023](https://conferences.computer.org/icws/2023/)([CCF B](https://www.ccf.org.cn/Academic_Evaluation/By_category/)). Congratulations to Hao ZENG.
 - 1 paper accepted by [IEEE transactions on computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=12)([CCF A](https://www.ccf.org.cn/Academic_Evaluation/By_category/)). Congratulations to Zichao YANG.
 - 1 paper accepted by [DASFAA 2023](http://cic.tju.edu.cn/info/1041/3905.htm)([CCF B](https://www.ccf.org.cn/Academic_Evaluation/By_category/)). Congratulations to Jianfeng SHI.
