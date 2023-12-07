@@ -22,6 +22,7 @@ Address
 
 News
 ======
+- 1 paper accepted by [ICSOC 2023](https://icsoc2023.diag.uniroma1.it/)([CCF B](https://www.ccf.org.cn/Academic_Evaluation/By_category/)). Congratulations to JIanfeng SHI.
 - 1 paper accepted by [RTSS 2023](https://2023.rtss.org/)([CCF A](https://www.ccf.org.cn/Academic_Evaluation/By_category/)). Congratulations to JIanfeng SHI.
 - 1 paper accepted by [ICPP 2023](https://icpp23.sci.utah.edu/)([CCF B](https://www.ccf.org.cn/Academic_Evaluation/By_category/)). Congratulations to Diaohan LUO.
 - 1 paper accepted by [ICWS 2023](https://conferences.computer.org/icws/2023/)([CCF B](https://www.ccf.org.cn/Academic_Evaluation/By_category/)). Congratulations to Hao ZENG.
@@ -39,8 +40,9 @@ Students
     - Jianfeng SHI ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZHANG), 2020-
     - Heran GAO ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZHANG), 2019-
   - MSc
-    - Honglu WANG([Najing, UCAS](https://njc.ucas.ac.cn/Introduction_of_UCASNJ.htm)), 2023-
+    - Zhaoxuan WANG([Najing, UCAS](https://njc.ucas.ac.cn/Introduction_of_UCASNJ.htm)), 2023-
     - Zewen XU([Najing, UCAS](https://njc.ucas.ac.cn/Introduction_of_UCASNJ.htm)), 2023-
+	- Honglu WANG([Najing, UCAS](https://njc.ucas.ac.cn/Introduction_of_UCASNJ.htm)), 2023-
     - Yangyang WU ([GXU](https://english.gxu.edu.cn/)), 2022-
     - Wang LIU ([Najing, UCAS](https://njc.ucas.ac.cn/Introduction_of_UCASNJ.htm)), 2022-
     - Hao GUO ([UCAS](https://english.ucas.ac.cn/)), 2021-
@@ -52,8 +54,10 @@ Students
     - Yuanjia XU ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZHANG), 2017-2023 
     - Yuewen WU ([UCAS](https://english.ucas.ac.cn/), with Prof. Hua ZHONG), 2015-2021 
   - MSc 
-    - Tian YU ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZhANG), 2020-2023, [[北京大学长沙计算与数字经济学院](https://icode.pku.edu.cn/), changsha]
-    - Rongzhou LUO ([UCAS](https://english.ucas.ac.cn/)), 2020-2023, [[东方财富](https://www.eastmoney.com/), shanghai]
+    - Jianxing ZHU ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZhANG), 2021-2024, ([阿里云Alibaba](https://www.alibabacloud.com/), beijing)
+    - Hao GUO ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZhANG), 2021-2024, ([阿里云Alibaba](https://www.alibabacloud.com/), beijing)
+    - Tian YU ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZhANG), 2020-2023, ([北京大学长沙计算与数字经济学院](https://icode.pku.edu.cn/), changsha)
+    - Rongzhou LUO ([UCAS](https://english.ucas.ac.cn/)), 2020-2023, ([东方财富](https://www.eastmoney.com/), shanghai)
     - Chen YANG ([UCAS](https://english.ucas.ac.cn/)), 2019-2022 ([百度Baidu](https://ir.baidu.com/), shanghai)
     - Chengzhi LI ([GXU](https://english.gxu.edu.cn/), with Prof. Wenbo ZhANG), 2019-2022 ([滴滴DiDi](https://www.didiglobal.com/), beijing)
     - Bowen YAN  ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZhANG), 2018-2021 ([腾讯Tencent](https://www.tencent.com/en-us), chengdu)
