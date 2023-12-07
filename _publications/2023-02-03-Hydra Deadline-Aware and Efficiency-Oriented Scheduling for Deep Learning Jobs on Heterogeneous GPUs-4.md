@@ -1,7 +1,7 @@
 ---
-title: "Hydra: Deadline-Aware and Efficiency-Oriented Scheduling for Deep Learning Jobs on Heterogeneous GPUs"
+title: "Deadline-Aware and Efficiency-Oriented Scheduling for Deep Learning Jobs on Heterogeneous GPUs"
 collection: publications
-permalink: /publication/2023-02-03-Hydra Deadline-Aware and Efficiency-Oriented Scheduling for Deep Learning Jobs on Heterogeneous GPUs
+permalink: /publication/2023-02-03-Hydra Deadline-Aware and Efficiency-Oriented Scheduling for Deep Learning Jobs on Heterogeneous GPUs-4
 excerpt: 'resource schudling for deep learning training jobs.'
 date: 2023-02-03
 venue: 'IEEE Transactions on Computers (CCF A)'

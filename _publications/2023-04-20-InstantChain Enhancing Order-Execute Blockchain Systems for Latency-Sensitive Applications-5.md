@@ -1,7 +1,7 @@
 ---
 title: "InstantChain: Enhancing Order-Execute Blockchain Systems for Latency-Sensitive Applications"
 collection: publications
-permalink: /publication/2023-04-20-InstantChain Enhancing Order-Execute Blockchain Systems for Latency-Sensitive Applications
+permalink: /publication/2023-04-20-InstantChain Enhancing Order-Execute Blockchain Systems for Latency-Sensitive Applications-5
 excerpt: 'task schedling for blockchain.'
 date: 2023-04-20
 venue: 'DASSFA 23 (CCF B)'
