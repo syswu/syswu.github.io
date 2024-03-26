@@ -22,6 +22,7 @@ Address
 
 News
 ======
+- 1 paper accepted by [HPDC 2024](https://www.hpdc.org/2024)([CCF B](https://www.ccf.org.cn/Academic_Evaluation/By_category/)). Congratulations to Zichao YANG.
 - 1 paper accepted by [ICSOC 2023](https://icsoc2023.diag.uniroma1.it/)([CCF B](https://www.ccf.org.cn/Academic_Evaluation/By_category/)). Congratulations to JIanfeng SHI.
 - 1 paper accepted by [RTSS 2023](https://2023.rtss.org/)([CCF A](https://www.ccf.org.cn/Academic_Evaluation/By_category/)). Congratulations to JIanfeng SHI.
 - 1 paper accepted by [ICPP 2023](https://icpp23.sci.utah.edu/)([CCF B](https://www.ccf.org.cn/Academic_Evaluation/By_category/)). Congratulations to Diaohan LUO.
