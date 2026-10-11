@@ -22,6 +22,7 @@ Address
 
 News
 ======
+- 1 paper accepted by [SoCC 2026](https://acmsocc.org/2026/)([CCF B](https://www.ccf.org.cn/Academic_Evaluation/By_category/)). Congratulations to Diaohan LUO.
 - 1 paper accepted by [ICPP 2025](https://www.hpdc.org/2024)([CCF B](https://www.ccf.org.cn/Academic_Evaluation/By_category/)). Congratulations to Diaohan LUO.
 - 1 paper accepted by [JCST 2025](https://www.hpdc.org/2024)([CCF B](https://www.ccf.org.cn/Academic_Evaluation/By_category/)). Congratulations to Heran GAO.
 - 1 paper accepted by [HPDC 2024](https://www.hpdc.org/2024)([CCF B](https://www.ccf.org.cn/Academic_Evaluation/By_category/)). Congratulations to Zichao YANG.
@@ -42,10 +43,9 @@ Students
     - ZiChao YANG  ([UCAS](https://english.ucas.ac.cn/), with Prof. Hua ZHONG,), 2021-  
     - Diaohan LUO  ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZHANG), 2021-
     - Jianfeng SHI ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZHANG), 2020-
-    - Heran GAO ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZHANG), 2019-
   - MSc
-    - Zhaoxuan WANG([Najing, UCAS](https://njc.ucas.ac.cn/Introduction_of_UCASNJ.htm)), 2023-
-    - Yiwen XU([Najing, UCAS](https://njc.ucas.ac.cn/Introduction_of_UCASNJ.htm)), 2023-
+    - Jiaxing WU([Najing, UCAS](https://njc.ucas.ac.cn/Introduction_of_UCASNJ.htm)), 2024-
+    - Le ZHOU([Najing, UCAS](https://njc.ucas.ac.cn/Introduction_of_UCASNJ.htm)), 2024-
     
  
 - Past:
@@ -54,6 +54,9 @@ Students
     - Yuanjia XU ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZHANG), 2017-2023 
     - Yuewen WU ([UCAS](https://english.ucas.ac.cn/), with Prof. Hua ZHONG), 2015-2021 
   - MSc
+    - Zhaoxuan WANG([Najing, UCAS](https://njc.ucas.ac.cn/Introduction_of_UCASNJ.htm)), 2023-2026，（[洪都航空](https://hongdu.zhiye.com/), nanchang）
+    - Honglu WANG([Najing, UCAS](https://njc.ucas.ac.cn/Introduction_of_UCASNJ.htm)), 2023-2026，（[浙江联通](https://cudataintelligence.zhiye.com/custom/index), hangzhou）
+    - Yiwen XU([Najing, UCAS](https://njc.ucas.ac.cn/Introduction_of_UCASNJ.htm)), 2023-2026，([江苏移动](https://www.10086.cn/), zhenjiang)
     - Yingjie JU ([UCAS](https://english.ucas.ac.cn/), with Prof.Tao HHUANG), 2022-2025, ([301医院](https://301hospital.com.cn/), beijing)
     - Aoluo ZHANG ([UCAS](https://english.ucas.ac.cn/), with Prof.Tao HHUANG), 2022-2025, ([农行总行ABC](https://www.abchina.com/cn/), beijing)
     - Xing Lv ([UCAS](https://english.ucas.ac.cn/), with Prof. Wenbo ZhANG), 2022-2025, ([头条Toutiao](https://www.toutiao.com/), hangzhou)
