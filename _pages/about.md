@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor at the [Institute of Software, Chinese Academy of Sciences (ISCAS)](http://www.iscas.ac.cn/), 
+I am a professor at the [Institute of Software, Chinese Academy of Sciences (ISCAS)](http://www.iscas.ac.cn/), 
 where I lead the [Operating Systems and Distributed Computing Group](https://github.com/dos-lab). 
 I obtained Ph.D. from ISCAS in 2014 (advisor: [Prof. Tao Huang](https://people.ucas.ac.cn/~iscashuangtao)), M.Eng. from 
 [National University of Defense Technology (NUDT)](https://www.nudt.edu.cn/) in 2008 
